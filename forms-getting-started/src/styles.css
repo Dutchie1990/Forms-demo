@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+h2.custom {
+    padding-top: 25px;
+    margin-top: 5px;
+  }
+
+p.custom {
+    padding-top: 25px;
+    margin-top: 15px;
+  }
